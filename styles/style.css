@@ -1,0 +1,37 @@
+/* Globals */
+:root {
+    --primaryFont: 'Montserrat', sans-serif;
+    --secondFont: 'Raleway', sans-serif;
+    --primaryColor: #f58634;
+    --secondaryColor: #00a959;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+  *, *:before, *:after {
+    box-sizing: inherit;
+}
+
+h1, h2, h3{
+    color: #000000;
+    font-family: var(--primaryFont)
+}
+
+img{
+    width: 100%;
+}
+
+body {
+    font-size: 16px;
+}
+
+/* End Globals */
+
+/* Header */
+
+
+
+
+/* End Header */
